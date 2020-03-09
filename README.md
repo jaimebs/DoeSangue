@@ -1,6 +1,6 @@
 # Doe Sangue
 
-![alt text](https://github.com/mailysantos/DoeSangue/logo.png "DOE")
+![image](https://github.com/mailysantos/DoeSangue/blob/master/logo.png)
 
 Olá! Seja bem-vindo ao repositório do Doe Sangue. Ele estará separado em duas pastas diferentes de acordo com suas responsabilidades, são elas:
 
