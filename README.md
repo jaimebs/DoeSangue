@@ -20,6 +20,7 @@ Porém, a minha aplicação foi desenvolvida usando outras tecnologias.
 Back-End:
 - Node.js
 - Express
+- Nodemon
 - Sucrase
 - MongoDB (Mongoose)
 - Docker
@@ -29,8 +30,9 @@ Front-End:
 - React Hooks
 - Styled Components
 - HTML5
-- CSS
 
 ## Veja Funcionando
 
 [![Assista uma demonstração](https://img.youtube.com/vi/yOUW3DP7wHU/0.jpg)](https://www.youtube.com/watch?v=yOUW3DP7wHU)
+
+Made with :heart: by Maily Santos [Linkedin](https://www.linkedin.com/in/mailysantos/)
